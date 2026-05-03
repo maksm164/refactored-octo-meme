@@ -1,2 +1,0 @@
-# refactored-octo-meme
-RTG
